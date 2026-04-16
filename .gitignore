@@ -1,0 +1,9 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+*.log
+.notified
+.health_fails
+.last_ngrok_url
+.health_fails
